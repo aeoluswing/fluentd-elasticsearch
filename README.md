@@ -1,1 +1,1 @@
-Image for gcr.io/google-containers/fluentd-elasticsearch
+Image for gcr.io/google-containers/fluentd-elasticsearch:v2.4.0
